@@ -1,0 +1,157 @@
+---
+title: "Revisión de textos"
+always_allow_html: yes
+author:
+- Autor Nicole Aising
+- Autor Lucas Palazzo
+date: "Mayo 2019"
+output: 
+  beamer_presentation:
+    theme: classic
+institute:
+- EII
+subtitle: Detalle
+header-includes:
+- \usepackage{pgf,tikz}
+- \usetikzlibrary{patterns}
+- \usetikzlibrary{arrows}
+- \usepackage{pgfplots}
+---sdfsdf
+# ¿Pueden las corporaciones producir bienes sociales mientras operan dentro de los límites del capitalismo basado en el mercado?
+
+-Cambiar la responsabilidad corporativa a "beneficiar a todas las partes interesadas, no solo a los accionistas"
+
+-Transformaciones empresariales y culturales más profundas
+
+-Desarrollar un modelo de negocio que vincule los ingresos a los beneficios sociales o ambientales e inspirar la conciencia socialmente buena.
+
+
+# ¿qué clase de criaturas somos?
+
+::: columns
+
+:::: column
+
+-¿Qué es el lenguaje? ¿cómo podemos entender? ¿qué es el bien común?
+
+
+-¿ Qué acuerdos políticos y económicos promueven o frustran el bien común?
+
+
+...La cuestión del bien común surge qué tipo de instituciones obstaculizan el desarrollo del individuo
+
+::::
+
+:::: column
+
+![](descarga.png){height=50%}\
+
+
+::::
+
+:::
+
+
+# Desarrollo del individuo
+
+Desde el punto de partida fundamental de la creatividad humana y la importancia de crecer sin impedimentos… cualquier forma de coerción que nos obstaculice no puede nunca darse por sentada.
+
+
+Concepción libertaria del bien común: Encontrar formas de contener el impacto negativo de políticas desastrosas, proporcionando oportunidades de ejercitar la inteligencia y cultivar el desarrollo humano en su enorme diversidad.
+
+
+
+
+# Una mejor manera de elegir presidentes
+
+Pluralidad versus mayoría
+\vspace{1cm}
+
+Cada votante elige un solo candidato y aquél con más votos gana.
+
+votantes clasifican postulantes en un ranking y el candidato preferido por una mayoría a cada oponente gana
+
+# Diferencias entre métodos
+
+La votación por el método de la pluralidad es seriamente vulnerable a la división del voto.
+
+La regla de la mayoría logra evitar la división del voto.
+
+
+# Sistema de juicio mayoritario, matemáticas para las urnas
+
+Problemas de equidad de la actual ley electoral para el Congreso de los Diputados
+
+-Sistema electoral distorsionador
+Mecanismos de la ley :
+
+-El número de escaños
+
+-El tamaño de las circunscripciones electorales
+
+-Fórmula electoral aplicada para la conversión de votos en escaños
+
+-Umbral electoral o cláusula de exclusión
+
+
+# Sistema de juicio mayoritario, matemáticas para las urnas
+
+Propuesta de GIME:
+
+
+-Ajuste en la asignación de los escaños por provincia.  
+
+
+-Desbloqueo de las listas, mediante un sistema de valoración de los candidatos según un método llamado Juicio Mayoritario.  
+
+
+-Los electores tendrían la facultad expresar algún tipo de valoración sobre cada uno de los candidatos
+
+# Interacciones salariales entre sectores público y privado
+
+Salarios del sector público se determinan de manera distinta a los del sector privado.
+
+Sector privado: Fuerzas del mercado.
+
+Sector Público:sigue reglas que no son de mercado: optimos sociales y optiomos personales.
+
+# Interacciones salariales entre sectores público y privado
+
+Decisiones de los políticos: 
+
+1.- en el primer caso se busca maximizar el bienestar en términos de eficiencia y equidad.
+
+2.-en el segundo caso se toman decisiones que benefician al individuo como buscar votos.
+
+Reder (1975): políticos tienen incentivos para expandir el empleo público sobre los niveles de eficiencia para actividades pro-voto.
+
+Borjas( 1984): los pagos del sector público aumentan en periodo de elecciones.
+
+# Interacciones salariales entre el sector público y privado
+
+-Investigación OCDE encuentra correlación positiva.
+
+-Otras publicaciones evidencian un movimiento pro-cíclico de los salarios del sector público por lo que estaría sincronizado con el sector privado.
+
+-Los salarios del sector público también estarían afectados por fuerzas de mercado.
+
+# Uso de la ciencia de la conservación para avanzar en la responsabilidad corporativa de la biodiversidad
+
+-La disminución de la biodiversidad amenaza la sostenibilidad de las economías y sociedades globales.
+
+-¿Están las corporaciones limitadas a mitigar su impacto negativo en la biodiversidad o pueden actuar activa y positivamente contribuir a la conservación de ésta?
+
+-Sólo 5 compañías de las 100 de fortune tiene compromisos específicos, mesurables y a plazos específicos con respecto al impacto en la biodiversidad.
+
+-La ciencia de la conservación puede hacer avanzar los enfoques de la responsabilidad corporativa de la biodiversidad al ayudar a las empresas a hacer compromisos de biodiversidad basados en la ciencia, desarrollar indicadores significativos y seleccionar actividades más específicas para abordar los impactos empresariales.
+
+# Representación de los principios de sostenibilidad en las declaraciones de misión y en las páginas de inicio de las organizaciones más grandes del mundo
+
+-Para evaluar hasta qué punto los conceptos relacionados de sostenibilidad, conservación, respuesta al cambio climático, reducción de la pobreza y equidad de género se han incorporado a la cultura organizacional.
+
+-Pocas organizaciones de cualquier sector incluyeron al cambio climático o a la equidad de género en sus pronunciamientos de misión. 
+
+-En general, ha habido cierto progreso en el reconocimiento de la reducción de la pobreza, la conservación de la biodiversidad y las prácticas sustentables, pero la equidad de género y una determinación para reducir los impactos sobre el cambio climático todavía no son promovidos como preocupaciones centrales de las instituciones. 
+
+
+
