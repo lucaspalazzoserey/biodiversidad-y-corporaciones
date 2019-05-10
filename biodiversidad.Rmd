@@ -16,142 +16,76 @@ header-includes:
 - \usetikzlibrary{patterns}
 - \usetikzlibrary{arrows}
 - \usepackage{pgfplots}
----sdfsdf
-# ¿Pueden las corporaciones producir bienes sociales mientras operan dentro de los límites del capitalismo basado en el mercado?
+---
 
--Cambiar la responsabilidad corporativa a "beneficiar a todas las partes interesadas, no solo a los accionistas"
+# Revisión literatura:
+-¿Pueden las corporaciones producir bienes sociales mientras operan dentro de los límites del capitalismo basado en el mercado?  
+-¿Qué clase de criaturas somos?  
+-Desarrollo del individuo  
+-Una mejor manera de elegir presidentes  
+-Sistema de juicio mayoritario, matemáticas para las urnas  
+-Interacciones salariales entre sectores público y privado  
 
--Transformaciones empresariales y culturales más profundas
+# Revisión de literatura semana pasada
+-Uso de la ciencia de la conservación para avanzar en la responsabilidad corporativa de la biodiversidad  
+-Representación de los principios de sostenibilidad en las declaraciones de misión y en las páginas de inicio de las organizaciones más grandes del mundo
 
--Desarrollar un modelo de negocio que vincule los ingresos a los beneficios sociales o ambientales e inspirar la conciencia socialmente buena.
 
+# Revisión de literatura semana actual
 
-# ¿qué clase de criaturas somos?
+1- Mejores prácticas para el compromiso de las coorporaciones en cuanto a la diversidad: un marco de trabajo para organizar.
 
-::: columns
+Las operaciones corporativas pueden tener impactos significativos en la biodiversidad. 
+															
+-La literatura ha pasado por alto el análisis de las prácticas organizativas que subyacen en el compromiso corporativo con la biodiversidad. se analiza el impacto en la biodiversidad pero no a las prácticas que subyacen.
+ 
+# 1.- Mejores prácticas para el compromiso de las coorporaciones en cuanto a la diversidad: un marco de trabajo para organizar
 
-:::: column
+-Datos
 
--¿Qué es el lenguaje? ¿cómo podemos entender? ¿qué es el bien común?
+Análisis sistemático de las prácticas de sostenibilidad informadas por 163 empresas mineras y forestales cuyas operaciones representan un alto riesgo para la biodiversidad. Según un estudio reciente de 126 empresas de sectores con impactos significativos en la biodiversidad, solo el 32% de estas empresas han implementado una política o programa formal en esta área ( CERES, 2014 ).Global Reporting Initiative (GRI), que incluyen información sobre la gestión de la biodiversidad.
+ 
+# 1.- Mejores prácticas para el compromiso de las coorporaciones en cuanto a la diversidad: un marco de trabajo para organizar
 
+-¿cuales son las mejores prácticas de conservación de la biodiversidad de las compañías cuyas operaciones presentan altos riesgos para la biodiversidad?
+ 
+Se requieren cambios significativos y la implementación de prácticas gerenciales específicas. Cuando están bien documentados, los informes de sostenibilidad pueden ayudar a identificar y analizar las mejores prácticas para el medio ambiente, que pueden ser útiles para los administradores e investigadores por igual.
 
--¿ Qué acuerdos políticos y económicos promueven o frustran el bien común?
+# 2.-Integración de los principios de la economía social y solidaria en el diseño sostenible de bienes de consumo
 
+- La esencia del movimiento de la ESS es la transformación social, la coherencia con sus valores y principios, y la racionalidad económica basada en la solidaridad, la sostenibilidad y unas relaciones horizontales y cooperativas que persiguen la satisfacción de necesidades y el desarrollo humano, individual y comunitario, en vez de la maximización del beneficio económico.
 
-...La cuestión del bien común surge qué tipo de instituciones obstaculizan el desarrollo del individuo
+# 3.- La economía social ante los paradigmas económicos emergentes: innovación social, economía colaborativa, economía circular, responsabilidad social empresarial, economía del bien común, empresa social y economía solidaria.
 
-::::
+-Objetivo: Analizar los conceptos emergentes y compararlos con el concepto de economía social.  
+-Hipótesis: En ciencias sociales los cambios de paradigmas o procesos de revolución científica se producen de modo simultáneo a las grandes transformaciones socioeconómicas y a las grandes crisis. Y estos cambios de paradigma van acompañados con un nuevo lenguaje y conceptos.  
+-Nacionalizacion, privatización, "comunitarización".
 
-:::: column
+# Economia social
+- La economía social conforma un espacio de la realidad económica integrado por formas organizativas privadas creadas por las personas para dar respuesta a sus propias demandas sociales, a sus problemas sustantivos y a sus aspiraciones sociales. Su carácter social y privado las sitúa en una lógica económica y decisional bien diferenciada de la de las empresas privadas tradicionales, basadas en la lógica del capital.
 
-![](descarga.png){height=50%}\
+# Nociones emergentes.
+-Innovación social  
+-Economía colaborativa  
+-Economía circular  
+-Responsabilidad social empresarial  
+-Economía del bien común  
+-empresa social   
+-economía solidaria 
 
+# Ánalisis comparativo de las nociones emergentes
+-Nociones ligadas a ámbitos centrales de crisis y transformación del sistema: innovación social, economía colaborativa y economía circular.  
+-Nociones ligadas a la reorientación de los objetivos de modo de funcionamiento de las economias con mecanismos de evaluación e incentivo: RSE y economía del bien común.  
+-Nociones ligadas a las nuevas formas de entender la práctica ecónomica y la forma de hacer empresa: empresa social, economía solidaria.
 
-::::
+# Conclusiones
+-los nuevos paradigmas aparecidos en el contexto de crisis de legitimidad del modelo economico son complementarios e incluso revitalizadores respecto al concepto de la economía social.
 
-:::
 
+# Preguntas por responder.
+-¿Cómo llevar la economía social al contexto local ?
 
-# Desarrollo del individuo
 
-Desde el punto de partida fundamental de la creatividad humana y la importancia de crecer sin impedimentos… cualquier forma de coerción que nos obstaculice no puede nunca darse por sentada.
-
-
-Concepción libertaria del bien común: Encontrar formas de contener el impacto negativo de políticas desastrosas, proporcionando oportunidades de ejercitar la inteligencia y cultivar el desarrollo humano en su enorme diversidad.
-
-
-
-
-# Una mejor manera de elegir presidentes
-
-Pluralidad versus mayoría
-\vspace{1cm}
-
-Cada votante elige un solo candidato y aquél con más votos gana.
-
-votantes clasifican postulantes en un ranking y el candidato preferido por una mayoría a cada oponente gana
-
-# Diferencias entre métodos
-
-La votación por el método de la pluralidad es seriamente vulnerable a la división del voto.
-
-La regla de la mayoría logra evitar la división del voto.
-
-
-# Sistema de juicio mayoritario, matemáticas para las urnas
-
-Problemas de equidad de la actual ley electoral para el Congreso de los Diputados
-
--Sistema electoral distorsionador
-Mecanismos de la ley :
-
--El número de escaños
-
--El tamaño de las circunscripciones electorales
-
--Fórmula electoral aplicada para la conversión de votos en escaños
-
--Umbral electoral o cláusula de exclusión
-
-
-# Sistema de juicio mayoritario, matemáticas para las urnas
-
-Propuesta de GIME:
-
-
--Ajuste en la asignación de los escaños por provincia.  
-
-
--Desbloqueo de las listas, mediante un sistema de valoración de los candidatos según un método llamado Juicio Mayoritario.  
-
-
--Los electores tendrían la facultad expresar algún tipo de valoración sobre cada uno de los candidatos
-
-# Interacciones salariales entre sectores público y privado
-
-Salarios del sector público se determinan de manera distinta a los del sector privado.
-
-Sector privado: Fuerzas del mercado.
-
-Sector Público:sigue reglas que no son de mercado: optimos sociales y optiomos personales.
-
-# Interacciones salariales entre sectores público y privado
-
-Decisiones de los políticos: 
-
-1.- en el primer caso se busca maximizar el bienestar en términos de eficiencia y equidad.
-
-2.-en el segundo caso se toman decisiones que benefician al individuo como buscar votos.
-
-Reder (1975): políticos tienen incentivos para expandir el empleo público sobre los niveles de eficiencia para actividades pro-voto.
-
-Borjas( 1984): los pagos del sector público aumentan en periodo de elecciones.
-
-# Interacciones salariales entre el sector público y privado
-
--Investigación OCDE encuentra correlación positiva.
-
--Otras publicaciones evidencian un movimiento pro-cíclico de los salarios del sector público por lo que estaría sincronizado con el sector privado.
-
--Los salarios del sector público también estarían afectados por fuerzas de mercado.
-
-# Uso de la ciencia de la conservación para avanzar en la responsabilidad corporativa de la biodiversidad
-
--La disminución de la biodiversidad amenaza la sostenibilidad de las economías y sociedades globales.
-
--¿Están las corporaciones limitadas a mitigar su impacto negativo en la biodiversidad o pueden actuar activa y positivamente contribuir a la conservación de ésta?
-
--Sólo 5 compañías de las 100 de fortune tiene compromisos específicos, mesurables y a plazos específicos con respecto al impacto en la biodiversidad.
-
--La ciencia de la conservación puede hacer avanzar los enfoques de la responsabilidad corporativa de la biodiversidad al ayudar a las empresas a hacer compromisos de biodiversidad basados en la ciencia, desarrollar indicadores significativos y seleccionar actividades más específicas para abordar los impactos empresariales.
-
-# Representación de los principios de sostenibilidad en las declaraciones de misión y en las páginas de inicio de las organizaciones más grandes del mundo
-
--Para evaluar hasta qué punto los conceptos relacionados de sostenibilidad, conservación, respuesta al cambio climático, reducción de la pobreza y equidad de género se han incorporado a la cultura organizacional.
-
--Pocas organizaciones de cualquier sector incluyeron al cambio climático o a la equidad de género en sus pronunciamientos de misión. 
-
--En general, ha habido cierto progreso en el reconocimiento de la reducción de la pobreza, la conservación de la biodiversidad y las prácticas sustentables, pero la equidad de género y una determinación para reducir los impactos sobre el cambio climático todavía no son promovidos como preocupaciones centrales de las instituciones. 
 
 
 
